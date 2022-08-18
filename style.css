@@ -58,13 +58,24 @@ html, body {
     margin-top: 15%;
     color: #fff;
 }
+@keyframes headingam {
+    from {
+
+    }
+    to {
+
+    }
+}
+
 #page1 #left-side p {
     font-size: 18px;
+    line-height: 30px;
     margin-left: 20%;
-    margin-top: 8%;
+    margin-top: 6%;
     color: rgb(232, 232, 232);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 100;
+
 }
 #page1 #left-side #btn {
     font-size: 18px;
@@ -78,7 +89,6 @@ html, body {
     font-weight: 100;
     cursor: pointer;
 }
-
 
  #page1 #right-side {
     width: 50%;
