@@ -1,3 +1,3 @@
 # Plant-Fashion
+![Project Image](https://github.com/developermickey/Plant-Fashion/blob/main/Plants%20Fashion%20Projects%20Img.png)
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
